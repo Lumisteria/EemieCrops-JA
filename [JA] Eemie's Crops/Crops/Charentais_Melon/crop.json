@@ -23,9 +23,9 @@
     "SeedNameLocalization": { 
         "es": "Semillas de melón charentais",
         "ko": "샤랑테 멜론",
-        /*"de": "",
-        "fr": "",
-        "hu": "",
+        /*"de": "",*/
+        "fr": "Graines de melon charentais",
+        /*"hu": "",
         "it": "",
         "ja": "",
         "pt": "",
@@ -36,9 +36,9 @@
     "SeedDescriptionLocalization": {
         "es": "Plantalas en verano. Toma 13 días para madurar.",
         "ko": "여름에 심는다. 자라기까지 13 일이 걸린다.",
-        /*"de": "",
-        "fr": "",
-        "hu": "",
+        /*"de": "",*/
+        "fr": "À planter en été. Il faudra 13 jours pour arriver à maturité.",
+        /*"hu": "",
         "it": "",
         "ja": "",
         "pt": "",
